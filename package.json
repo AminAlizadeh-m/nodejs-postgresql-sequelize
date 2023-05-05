@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-postgresql-sequelize",
+  "version": "1.0.0",
+  "description": "This project is for setup a postgresql and sequelize with nodejs and typescript.",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AminAlizadeh-m/nodejs-postgresql-sequelize.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Typescript",
+    "SQL",
+    "Postgresql",
+    "Sequelize",
+    "Database"
+  ],
+  "author": "AminAlizadeh <aminalizadeh.developer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AminAlizadeh-m/nodejs-postgresql-sequelize/issues"
+  },
+  "homepage": "https://github.com/AminAlizadeh-m/nodejs-postgresql-sequelize#readme"
+}
